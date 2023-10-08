@@ -5,4 +5,4 @@ In 2023, after graduating from college and finishing 6 months of backpacking acr
 During my time there, I honed my technical skills and gained significant experience in JavaScript, React, Redux, Python, Flask, PostgreSQL, Express, Node.js, CSS, HTML, and other technologies. 
 In my free time I love long-distance hiking, exploring new cuisines, playing squash, bocce, skiing, and listening to podcasts.
  
-Feel free to check out my portfolio page at: [willcampbell.xyz](willcampbell.xyz) 
+Feel free to check out my portfolio page at: [willcampbell.xyz](www.willcampbell.xyz) 
